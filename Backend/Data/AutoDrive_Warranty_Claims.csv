@@ -1,0 +1,51 @@
+claim_id,model,purchase_date,claim_date,days_since_purchase,mileage,part_replaced,part_cost,labor_cost,total_cost,invoice_present,image_present,previous_claims
+CLM-0001,"Urban-2 (Two-Wheeler, Commuter)",05-11-2023,06-12-2025,762,4857,Brake Pad,232,76,308,1,1,2
+CLM-0002,"Urban-2 (Two-Wheeler, Commuter)",14-10-2024,11-11-2024,28,1688,Starter Motor,185,105,290,1,1,0
+CLM-0003,"Pulse-3 (Two-Wheeler, Sports Bike)",07-09-2024,13-02-2025,159,8073,Starter Motor,315,164,479,1,1,2
+CLM-0004,"Aero-5 (Four-Wheeler, Hatchback)",23-03-2024,14-11-2024,236,12349,Alternator,374,129,503,1,1,0
+CLM-0005,"Swift-R (Two-Wheeler, Premium Bike)",13-02-2024,28-03-2024,44,7081,Sensor,442,204,646,1,1,1
+CLM-0006,"Swift-R (Two-Wheeler, Premium Bike)",04-09-2025,29-12-2025,116,2491,Brake Pad,390,210,600,1,1,2
+CLM-0007,"Swift-R (Two-Wheeler, Premium Bike)",03-12-2024,03-01-2025,31,4933,Sensor,386,70,456,1,1,0
+CLM-0008,"Swift-R (Two-Wheeler, Premium Bike)",15-05-2025,05-09-2025,113,3864,Brake Pad,469,140,609,1,1,0
+CLM-0009,"Urban-2 (Two-Wheeler, Commuter)",21-10-2024,23-12-2024,63,5210,Sensor,257,168,425,1,1,1
+CLM-0010,"Aero-5 (Four-Wheeler, Hatchback)",11-11-2024,29-12-2024,48,8705,ECU,122,211,333,1,1,1
+CLM-0011,"Aero-5 (Four-Wheeler, Hatchback)",23-10-2024,22-04-2025,181,8167,Brake Pad,601,252,853,1,1,2
+CLM-0012,"Terra-9 (Four-Wheeler, SUV Petrol)",08-03-2025,09-01-2026,307,9809,Airbag,528,348,876,1,1,1
+CLM-0013,"Aero-5 (Four-Wheeler, Hatchback)",16-09-2024,21-11-2024,66,2743,Airbag,202,128,330,1,1,2
+CLM-0014,"Torque-7 (Four-Wheeler, SUV Diesel)",03-10-2025,08-05-2026,217,13704,Alternator,569,320,889,1,1,1
+CLM-0015,"Pulse-3 (Two-Wheeler, Sports Bike)",18-11-2024,14-02-2025,88,6773,Brake Pad,204,125,329,1,1,1
+CLM-0016,"Torque-7 (Four-Wheeler, SUV Diesel)",24-12-2024,27-05-2025,154,17603,Battery,272,309,581,1,1,0
+CLM-0017,"Swift-R (Two-Wheeler, Premium Bike)",12-03-2024,12-05-2024,61,1209,Sensor,421,175,596,1,1,0
+CLM-0018,"Volt-X (Four-Wheeler, EV Sedan)",02-04-2025,23-08-2025,143,3780,Fuel Pump,177,298,475,1,1,0
+CLM-0019,"Swift-R (Two-Wheeler, Premium Bike)",22-03-2024,10-08-2024,141,3905,Starter Motor,361,185,546,1,1,2
+CLM-0020,"Terra-9 (Four-Wheeler, SUV Petrol)",10-12-2024,22-07-2025,224,13436,Airbag,538,314,852,1,1,1
+CLM-0021,"Volt-X (Four-Wheeler, EV Sedan)",11-02-2023,18-03-2024,401,14638,Airbag,385,192,577,1,1,0
+CLM-0022,"Volt-X (Four-Wheeler, EV Sedan)",03-04-2023,19-05-2024,412,10413,ECU,222,343,565,1,1,0
+CLM-0023,"Aero-5 (Four-Wheeler, Hatchback)",18-04-2024,15-09-2025,515,14355,ECU,634,204,838,1,1,1
+CLM-0024,"Swift-R (Two-Wheeler, Premium Bike)",04-02-2023,27-10-2024,631,10804,Headlight,583,290,873,1,1,1
+CLM-0025,"Swift-R (Two-Wheeler, Premium Bike)",13-01-2023,03-07-2024,537,6790,Brake Pad,404,178,582,1,1,0
+CLM-0026,"Pulse-3 (Two-Wheeler, Sports Bike)",06-07-2023,23-10-2024,475,12579,Headlight,405,118,523,1,1,1
+CLM-0027,"Swift-R (Two-Wheeler, Premium Bike)",21-01-2023,10-05-2023,109,10170,Starter Motor,275,191,466,1,1,1
+CLM-0028,"Terra-9 (Four-Wheeler, SUV Petrol)",28-04-2024,28-07-2024,91,21010,Battery,348,264,612,1,1,0
+CLM-0029,"Terra-9 (Four-Wheeler, SUV Petrol)",14-05-2024,20-09-2024,129,28023,Fuel Pump,338,167,505,1,1,2
+CLM-0030,"Torque-7 (Four-Wheeler, SUV Diesel)",18-12-2025,03-02-2026,47,25188,Brake Pad,238,95,333,1,1,3
+CLM-0031,"Pulse-3 (Two-Wheeler, Sports Bike)",17-01-2023,08-03-2023,50,11572,Starter Motor,250,104,354,1,1,1
+CLM-0032,"Terra-9 (Four-Wheeler, SUV Petrol)",20-10-2024,29-11-2024,40,11647,Brake Pad,263,187,450,1,0,1
+CLM-0033,"Torque-7 (Four-Wheeler, SUV Diesel)",09-04-2025,18-08-2025,131,3644,ECU,487,197,684,1,0,0
+CLM-0034,"Volt-X (Four-Wheeler, EV Sedan)",18-02-2024,12-05-2024,84,9788,Battery,451,113,564,1,0,0
+CLM-0035,"Torque-7 (Four-Wheeler, SUV Diesel)",15-03-2025,13-11-2025,243,10400,Fuel Pump,489,236,725,0,0,2
+CLM-0036,"Swift-R (Two-Wheeler, Premium Bike)",04-11-2025,07-01-2026,64,5833,Starter Motor,298,107,405,0,0,1
+CLM-0037,"Aero-5 (Four-Wheeler, Hatchback)",11-12-2023,23-04-2024,134,13763,Sensor,420,209,629,1,1,6
+CLM-0038,"Aero-5 (Four-Wheeler, Hatchback)",21-02-2023,25-10-2023,246,16088,Alternator,433,91,524,1,1,3
+CLM-0039,"Aero-5 (Four-Wheeler, Hatchback)",09-11-2023,29-02-2024,112,14644,Alternator,602,221,823,1,1,6
+CLM-0040,"Pulse-3 (Two-Wheeler, Sports Bike)",23-02-2023,09-06-2023,106,11438,Brake Pad,186,293,479,1,1,5
+CLM-0041,"Pulse-3 (Two-Wheeler, Sports Bike)",02-03-2025,05-09-2025,187,7974,Starter Motor,790,533,1323,1,1,1
+CLM-0042,"Urban-2 (Two-Wheeler, Commuter)",25-06-2024,18-02-2025,238,12168,Starter Motor,908,471,1379,1,1,1
+CLM-0043,"Swift-R (Two-Wheeler, Premium Bike)",06-01-2025,25-07-2025,200,14818,Starter Motor,1171,692,1863,1,1,1
+CLM-0044,"Aero-5 (Four-Wheeler, Hatchback)",28-07-2024,15-09-2024,49,16067,Airbag,1231,463,1694,1,1,1
+CLM-0045,"Swift-R (Two-Wheeler, Premium Bike)",10-06-2025,22-06-2025,12,1213,Headlight,562,318,880,1,1,0
+CLM-0046,"Terra-9 (Four-Wheeler, SUV Petrol)",28-05-2025,04-06-2025,7,1443,Fuel Pump,729,314,1043,1,1,2
+CLM-0047,"Terra-9 (Four-Wheeler, SUV Petrol)",11-09-2025,16-09-2025,5,772,ECU,683,195,878,1,1,2
+CLM-0048,"Volt-X (Four-Wheeler, EV Sedan)",15-08-2024,01-07-2025,320,8200,ECU,620,410,1030,1,1,3
+CLM-0049,"Torque-7 (Four-Wheeler, SUV Diesel)",05-11-2023,04-12-2025,760,11700,Fuel Pump,780,520,1300,1,0,4
+CLM-0050,"Pulse-3 (Two-Wheeler, Sports Bike)",10-01-2025,24-06-2025,165,9100,Starter Motor,690,230,920,0,1,3

@@ -1,0 +1,13 @@
+# Jupyter and development environment
+ipykernel
+
+# LLM orchestration and agent workflows
+langgraph
+langchain-openai
+
+# Data processing and analysis
+pandas
+
+# Utilities and environment configuration
+python-dotenv
+pypdf
